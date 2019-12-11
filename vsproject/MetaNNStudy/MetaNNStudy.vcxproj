@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClCompile Include="..\..\src\practice01-05.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\src\VarTypeDict.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{CE6EDBD9-E6C0-4EAA-8B33-3D82033F769C}</ProjectGuid>
