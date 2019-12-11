@@ -1,2 +1,11 @@
-﻿  test.cpp
-  MetaNNStudy.vcxproj -> E:\study\MetaNNStudy\vsproject\MetaNNStudy\Debug\MetaNNStudy.exe
+﻿  practice01-05.cpp
+e:\study\metannstudy\src\practice01-05.cpp(10): error C2938: “std::enable_if_t<false,void>”: 未能使别名模板专用化
+  e:\study\metannstudy\src\practice01-05.cpp(10): note: 参见对正在编译的 别名 模板 实例化 "std::enable_if_t<false,void>" 的引用
+e:\study\metannstudy\src\practice01-05.cpp(28): error C2668: “hasType”: 对重载函数的调用不明确
+  e:\study\metannstudy\src\practice01-05.cpp(11): note: 可能是“auto hasType<test,0x0>(void)”
+  e:\study\metannstudy\src\practice01-05.cpp(5): note: 或    “auto hasType<test,0x0>(void)”
+  e:\study\metannstudy\src\practice01-05.cpp(28): note: 尝试匹配参数列表“()”时
+e:\study\metannstudy\src\practice01-05.cpp(29): error C2668: “hasType”: 对重载函数的调用不明确
+  e:\study\metannstudy\src\practice01-05.cpp(11): note: 可能是“auto hasType<test1,0x0>(void)”
+  e:\study\metannstudy\src\practice01-05.cpp(5): note: 或    “auto hasType<test1,0x0>(void)”
+  e:\study\metannstudy\src\practice01-05.cpp(29): note: 尝试匹配参数列表“()”时
